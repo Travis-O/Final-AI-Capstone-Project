@@ -1,2 +1,2 @@
-# Final-AI-Capstone-Project
+# Final-AI-Capstone-Project:
 This is ResearchGPT, the artificial intelligence research assistant
