@@ -1,0 +1,16 @@
+research_gpt_assistant/
+├── README.md
+├── requirements.txt
+├── config.py                         # Configuration and API settings
+├── document_processor.py             # PDF processing and text extraction
+├── research_assistant.py             # Main ResearchGPT class with all functionality
+├── research_agents.py               # AI agents for different research tasks
+├── main.py                          # Main execution script
+├── test_system.py                   # Testing and evaluation script
+├── data/
+│   ├── sample_papers/               # Sample PDF research papers
+│   └── processed/                   # Extracted text files
+├── results/
+│   └── evaluation_results.txt       # System performance metrics
+└── prompts/
+   
